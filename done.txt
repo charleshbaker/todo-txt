@@ -1,0 +1,13 @@
+x 2012-10-29 Withdraw $60 2 give CIB & MJB 4 next 2 weeks of lunches +Personal +LunchMoney @errands
+x 2012-10-29 Request windows VDI from Chris and Ralph +LoadTesting @pc
+x 2012-10-29 Get allowance money for GAB, CIB, MJB +Personal +Allowance @bank
+x 2012-10-29 Download WebLoad +LoadTesting @pc
+x 2012-10-29 Mail notarized form to Medley Law Firm +Personal +SellDadsHouse @errands
+x 2012-10-30 Take Flex spending form to Sirrine Hall +Personal @errands
+x 2012-10-30 2012-10-30 Change todo.txt location in Android app on phone. @tbolt +Personal
+x 2012-10-30 move LoadRunner and WebLoad packages to VDI +LoadTesting @pc
+x 2012-10-30 Install VMWare view client on Linux box. +LoadTesting @pc
+x 2012-10-31 Install VMWare view client on MBP. +LoadTesting @mbp
+x 2012-10-31 As per NOC check newrh2 aka people.clemson.edu +OnCall @mbp
+x 2012-10-31 As per NOC check nscd on Clemix +OnCall @mbp
+x 2012-10-31 At Dexters request check 4 AIM login info @mbp
