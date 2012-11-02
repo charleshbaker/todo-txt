@@ -5,5 +5,7 @@ Configure twiki on chbtwiki +TwikiUpgrade @pc
 Install Loadrunner on windows VDI +LoadTesting @pc
 Install WebLoad on windows VDI +LoadTesting @pc
 Pay bills. +Personal @pc @home
-2012-10-30 Get eggs & leftovers from ITC fridge @work +Personal
 2012-10-30 Call Mrs. Stokes re conference +Personal @phone
+Get gas for Caddy +Personal @errands
+2012-11-02 Burn a Win7 DVD +Personal @itc
+(A) Email references re load testing +LoadTesting @itc @mbp
