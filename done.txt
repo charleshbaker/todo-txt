@@ -15,3 +15,41 @@ x 2012-11-01 Serve as mentor during CCIT Leadership Training 20121101 +Leadershi
 x 2012-11-01 Transfer to GAB 4 a coat purchase +Personal @mbp
 x 2012-11-01 2012-10-30 Get eggs & leftovers from ITC fridge @work +Personal
 x 2012-11-02 As per NOC check StuHome01 +OnCall @mbp
+x 2012-11-02 EngineRoom meetings all day. +EngineRoom @itc
+x 2012-11-03 As per NOC troubleshoot rh10 and Clemson homepage +OnCall @mbp
+x 2012-11-03 As per NOC troubleshoot rh11 +OnCall @mbp
+x 2012-11-03 What version of Nagios R we using? +NagiosUpgrade @pc
+x 2012-11-03 What is current version of Nagios? +NagiosUpgrade @pc
+x 2012-11-04 2012-11-02 Compare Samsung S3 & Galaxy Nexus +Personal @mbp
+x 2012-11-08 Pay bills. +Personal @pc @home
+x 2012-11-09 Get out thermostat manual +Fallback +Personal @home
+x 2012-11-09 Look up how to set time on thermostat +FallBack +Personal @home
+x 2012-11-09 Set thermostat time +Fallback +Personal @home
+x 2012-11-09 Watch Painless OpenStack Deplopyments with Puppet +PuppetConf2012 +EngineRoom @mbp
+x 2012-11-09 Watch Automated Configuration of Firmware +PuppetConf2012 +EngineRoom @mbp
+x 2012-11-09 Watch Using Puppet 2 maintain 100s of OpenStack instances +PuppetConf2012 +EngineRoom @mbp
+x 2012-11-09 Watch External Data Heira etc +PuppetConf2012 +EngineRoom @mbp
+x 2012-11-10 Return Isaiah's old phone +Personal @errands
+x 2012-11-10 Get lunch money for boys +Personal  @errands
+x 2012-11-10 Get allowance money for boys +Personal @errands
+x 2012-11-10 Take Miles to Wal-Mart +Personal @errands
+x 2012-11-10 Return books to library. +Personal  @errands 
+x 2012-11-10 Go to Lowe's re attic stairs +Personal @errands
+x 2012-11-10 Get stuff at Sam's +Personal  @errands
+x 2012-11-10 Get gas for Caddy at Sam's +Personal @errands
+x 2012-11-10 Wash, dry & fold 2 loads of laundry +Personal +Chores @home
+x 2012-11-10 Order or buy fold up bluetooth keyboard +Personal @errands @mbp
+x 2012-11-10 Order Galaxy Tab case +Personal @mbp
+x 2012-11-10 Get black printer ink and printer paper +Personal @errands 
+x 2012-11-10 Cook dinner +Personal +Chores @home
+x 2012-11-10 Watch Cont integration when infrastructure is the product +PuppetConf2012 +EngineRoom @mbp
+x 2012-11-10 Watch Test driving operations +PuppetConf2012 +EngineRoom @mbp
+x 2012-11-11 Take Miles to get Krispy Kreme doughnuts +Personal @errands
+x 2012-11-11 Create apache configuration on chbtwiki +TwikiUpgrade @pc
+x 2012-11-11 Configure twiki on chbtwiki +TwikiUpgrade @pc
+x 2012-11-11 2012-11-02 Burn a Win7 DVD +UpgradeDellLaptop +Personal @mbp
+x 2012-11-11 Burn Office 2010 DVD +UpgradeDellLaptop +Personal @mbp
+x 2012-11-11 Install WebLoad on windows VDI +LoadTesting @pc
+x 2012-11-11 Wash, dry & fold 2 loads of laundry +Personal +Chores @home
+x 2012-11-11 Install Loadrunner on windows VDI +LoadTesting @pc
+x 2012-11-11 Patch LoadRunner install +LoadTesting @mbp
