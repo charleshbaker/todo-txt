@@ -53,3 +53,29 @@ x 2012-11-11 Install WebLoad on windows VDI +LoadTesting @pc
 x 2012-11-11 Wash, dry & fold 2 loads of laundry +Personal +Chores @home
 x 2012-11-11 Install Loadrunner on windows VDI +LoadTesting @pc
 x 2012-11-11 Patch LoadRunner install +LoadTesting @mbp
+x 2012-11-12 Email EngineRoom re: best time for collaborative work. +EngineRoom @computer
+x 2012-11-12 Attend 0800 iRoar ERP Tech Meeting via phone. +iRoar @phone
+x 2012-11-12 Wash, dry & fold one load of laundry +Personal +Chores @home
+x 2012-11-12 Find my list of MBP software +MbpUpgrade @computer
+x 2012-11-12 Update list of MBP software +MbpUpgrade @computer
+x 2012-11-12 2012-11-12 Create ticket to have SSD installed in MBP +UpgradeMbp @computer
+x 2012-11-12 2012-11-12 Have SSD installed in MBP +UpgradeMbp @itc
+x 2012-11-12 2012-11-12 Download and burn latest Crunchbang Linux +UpgradeMbp @computer 
+x 2012-11-12 Download & burn latest Ubuntu Linux +UpgradeMbp @computer
+x 2012-11-12 Install latest #! Linux on MBP +UpgradeMbp @mbp
+x 2012-11-12 Wipe out #! by installing Ubuntu on MBP +UpgradeMbp @mbp
+x 2012-11-13 Copy todo addons from rain to reacher +UpgradeMbp @itc
+x 2012-11-13 Take Pro Puppet to DIC +EngineRoom @dic
+x 2012-11-13 CSO Standup Meeting +Meetings @itc
+x 2012-11-13 Fill out payroll deduction form. +StartUnitedWayDonations @itc
+x 2012-11-13 Find out employee number. +StartUnitedWayDonations @itc
+x 2012-11-13 Attend United Way meeting +StartUnitedWayDonations @itc
+x 2012-11-13 Turn in payroll deduction form. +StartUnitedWayDonations @itc
+x 2012-11-13 Copy .zshrc from old mac drive to new. +UpgradeMbp @itc
+x 2012-11-13 Figure out how to get reacher connected to tigernet - CA error +UpgradeMbp @computer
+x 2012-11-13 Put old MBP hard disk in enclosure +UpgradeMbp @computer
+x 2012-11-13 Get United Way payroll deduction form. +StartUnitedWayDonations @itc
+x 2012-11-13 Calculate 0.5% of salary over 24 weeks. +StartUnitedWayDonations @itc
+x 2012-11-13 Reschedule Thursday's medical appointment. +Personal @phone
+x 2012-11-13 Get reacher's synergy script off external drive +UpgradeMbp @computer
+x 2012-11-13 Research how to switch desktops w/ keyboard in Ubuntu 12.10 +Personal +UpgradeMbp @mbp

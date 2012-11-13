@@ -1,4 +1,4 @@
-(A) Email references re load testing +LoadTesting @itc @mbp
+(E) Email references re load testing +LoadTesting @itc @mbp
 2012-11-02 Jim Rohn on tipping for Dexter +Personal @pc
 2012-11-09 Ask team about kanban +EngineRoom @itc
 Get oil changed in Caddy +Personal @errands
@@ -6,6 +6,19 @@ Carefully read Razor documentation +EngineRoom @mbp
 Return iPad case to Sam's +Personal @errands
 Check on sale of house with Medley law firm +SellDadsHouse @mbp @phone
 Put fresh sheets on master bed +Personal +Chores @home
-Put out fresh towels for both bathrooms +Personal +Chroes @home
+Put out fresh towels for both bathrooms +Personal +Chores @home
 Backup all personal files from dell laptop to seagate +UpgradeDellLaptop +Personal @home @dl
 Figure out how to post to newsbruiser by email, rest or api +Personal @mbp
+Install VPN client on galaxy tab. +Personal @gt2
+Make list of items to take to LISA '12 +Personal @computer
+Buy more rechargeable AAA & AA batteries. +Personal @errands
+Add Longitude audio book to http://www.goodreads.com/ +Personal +Librarian @computer
+Update the Focused Activities twiki page @itc @computer
+Research adjusting MBP touchpad for linux +UpgradeMbp @computer
+Research cuvpn for Ubuntu +UpgradeMbp @computer
+Email EngineRoom list re: cubicle chat with MattG +EngineRoom @computer
+2012-11-20 CSO Standup Meeting +Meetings @itc
+(A) Create a simple test of SIS/Banner in LoadRunner +LoadTesting @computer
+(C) Create a simple test of SIS/Banner in WebLoad +LoadTesting @computer
+(D) Use the copy of mgmt 201 on bbtest to make a test in WebLoad +LoadTesting @computer
+(B) Use the copy of mgmt 201 on bbtest to make a test in LoadRunner +LoadTesting @computer
