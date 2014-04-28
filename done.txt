@@ -79,3 +79,640 @@ x 2012-11-13 Calculate 0.5% of salary over 24 weeks. +StartUnitedWayDonations @i
 x 2012-11-13 Reschedule Thursday's medical appointment. +Personal @phone
 x 2012-11-13 Get reacher's synergy script off external drive +UpgradeMbp @computer
 x 2012-11-13 Research how to switch desktops w/ keyboard in Ubuntu 12.10 +Personal +UpgradeMbp @mbp
+x 2012-11-13 Wipe out Ubuntu by installing Lubuntu +UpgradeMbp @mbp
+x 2012-11-14 Add Longitude audio book to http://www.goodreads.com/ +Personal +Librarian @computer
+x 2012-11-14 Check on sale of house with Medley law firm +SellDadsHouse @mbp @phone
+x 2012-11-14 2012-11-14 Get gas +Personal +CaddyMaintenance @errands
+x 2012-11-14 Return iPad case to Sam's +Personal @errands
+x 2012-11-14 2012-11-14 Medical Appointment +Personal @errands
+x 2012-11-14 Backup all personal files from dell laptop to seagate +UpgradeDellLaptop +Personal @home @dl
+x 2012-11-16 Do 18 labs from http://gitimmersion.com/ +PersonalDevelopment @computer
+x 2012-11-17 Put out fresh towels for both bathrooms +Personal +Chores @home
+x 2012-11-17 Take boys to library. +Personal @errands
+x 2012-11-17 Pick up Rx and poster board from Walgreens +Personal @errands
+x 2012-11-17 Do two loads of laundry +Personal +Chores @home
+x 2012-11-18 Do 18 labs from http://gitimmersion.com/ +PersonalDevelopment @computer
+x 2012-11-18 Do two loads of laundry +Personal +Chores @home
+x 2012-11-18 Do two loads of laundry +Personal +Chores @home
+x 2012-11-18 Do 18 labs from http://gitimmersion.com/ +PersonalDevelopment @computer
+x 2012-11-18 Do two loads of laundry +Personal +Chores @home
+x 2012-11-19 Get oil changed in Caddy +Personal @errands +CaddyMaintenance
+x 2012-11-19 Put fresh sheets on master bed +Personal +Chores @home
+x 2012-11-19 Research adjusting MBP touchpad for linux +UpgradeMbp @computer
+x 2012-11-20 Install and configure vpn on MBP +UpgradeMbp @mbp
+x 2012-11-20 Email Brian Parker re: VPN on Linux. +Personal +UpgradeMbp  @computer
+x 2012-11-20 Buy a Clemson scarf for GAB. +Personal @errands @clemson
+x 2012-11-20 Buy a Clemson sweatshirt for myself. +Personal @errands @clemson
+x 2012-11-21 Gas for caddy. +Personal +CaddyMaintenance @errands
+x 2012-11-21 2012-11-20 CSO Standup Meeting +Meetings @itc
+x 2012-11-21 Make Sam's run. +Personal @errands
+x 2012-11-21 Refill on Miles' Singulair. +Personal @errands 
+x 2012-11-21 Brainstorm w/ family & make work & shopping lists +Personal @home
+x 2012-12-03 Pick up Mile's Singulair Rx. +Personal @errands
+x 2012-12-03 Pay IRS. +Personal @computer
+x 2012-12-03 Pay Bills +Personal @computer
+x 2012-12-03 Make grocery list +Personal @home
+x 2012-12-03 Help make dinner menu for the week +Personal @home
+x 2012-12-03 Cook Sunday dinner +Personal +Chores @home
+x 2012-12-09 Update the Focused Activities twiki page @itc @computer
+x 2012-12-09 Return materials to library +Personal @errands
+x 2012-12-09 Pickup Rx's for MJB & me +Personal @errands
+x 2012-12-09 Order refills for Rx's for MJB & me +Personal @phone
+x 2012-12-09 Install VPN client on galaxy tab. +Personal @gt2
+x 2012-12-09 Make list of items to take to LISA '12 +Personal @computer
+x 2012-12-10 See if Team Geek is in SC State library. +Personal @computer
+x 2012-12-10 Get todo.actions from rain and install on reacher. +Personal @reacher
+x 2012-12-17 Email Greg Reeves about getting DVI cable. +Work @computer
+x 2012-12-17 Show Yi how to install homebrew and brew install tn3270 +Work @itc
+x 2012-12-19 Read Team Geek via SC State library safarionline. +Personal @computer
+x 2012-12-19 Make a separate list of all the tutorials, tech sessions and BoFs I attended +Lisa12 +Work @computer
+x 2012-12-19 Find out if there is another release of gnome-settings-daemon in Ubuntu repos. +Work @computer
+x 2013-01-01 Return a book to library +Personal @errands
+x 2013-01-01 Do a little fill in shopping +Personal @errands
+x 2013-01-01 Do 3 loads of laundry +Personal @home
+x 2013-01-01 Cook paleo dinner +Personal @home
+x 2013-01-02 Pack lunch and snacks for 20130102 +Personal @home
+x 2013-01-02 Make medical appointment re: hip +Personal @phone
+x 2013-01-02 Upload docs from Lisa12 to Google Docs +Lisa12 +Work @computer
+x 2013-01-02 File expense report +Work @itc
+x 2013-01-02 Get info to use Kevin's kickstart server to load twiki vm +TwikiUpgrade @computer
+x 2013-01-04 Pick up BP medicine from Walgreens +Personal @errands
+x 2013-01-05 Order glasses for Gab and myself +Personal @errands
+x 2013-01-05 Return copy of Rising Sun for a refund +Personal @errands
+x 2013-01-05 Get air filters and mulch from Home Depot +Personal @errands
+x 2013-01-05 Fill cadillac's gas tank +Personal @errands
+x 2013-01-05 Return audiobooks to library +Personal @errands
+x 2013-01-05 Get MRI of left hip +Personal @errands
+x 2013-01-06 Go to Nontheist meetup @ Brew & Ewe +Personal
+x 2013-01-06 Do 3 loads of laundry +Personal +Chores @home
+x 2013-01-07 Talk to LEB re: intimacy issues +Personal +Marriage @home
+x 2013-01-07 Redraw kanban structure on my white board +Work @ITC
+x 2013-01-07 Email Ralph re past week of on call duty +OnCall +Work @computer
+x 2013-01-07 Research kanban card colors +Work @computer
+x 2013-01-08 Put out fresh towels in master bathroom +Personal +Chores @home
+x 2013-01-09 Talk w/ Chris Jones re: VMWare console & PXE boot of VMs +TwikiUpgrade +Work @computer
+x 2013-01-09 Fix www.clemson.edu, mysql1, ws1, rh10 and rh11 ticket 349368 +Work +ULOC @computer
+x 2013-01-09 Meet with Barry re: some things he would like me to do w/ Banner at Ravenel +Work +Banner @itc
+x 2013-01-09 Attend NOC production readiness conference call. +Work +ULOC @phone
+x 2013-01-10 Discuss 20130109 web operations outage on NOC production readiness call +Work +ULOC @phone
+x 2013-01-10 Write up and distribute document on 20130109 web operations outage. +Work +ULOC @computer
+x 2013-01-10 Make search look at all webs by default in twiki +TwikiUpgrade +Work @computer
+x 2013-01-10 Find advanced nagios log file checking plugin for Michelle +ULOC +Work @computer
+x 2013-01-10 Fix newrh2 and EH06 ticket 350348 +Work +ULOC @computer
+x 2013-01-11 Send email to Kat re: Leighann's problem with Sparcet +Work @computer
+x 2013-01-11 Share todo_status google spread sheet w/ Michelle +Work @computer
+x 2013-01-11 Allow deveazend1 to access devcubsdb4:1521 +Work +ULOC @computer
+x 2013-01-11 Contact Ricky Motes about ER1 oracle server. +Work +EngineRoom @computer @phone
+x 2013-01-11 Let EngineRoom team know Ricky is unavailable +Work +EngineRoom @computer
+x 2013-01-11 Attend NOC PR conf call +Work +ULOC @phone
+x 2013-01-11 Install ubuntu server on 3g9xjm1 +Work +ULOC @computer
+x 2013-01-11 Install irc server on 3g9xjm1 +Work +ULOC @computer
+x 2013-01-11 Do production load as per ticket 349459 +Work +ULOC @computer
+x 2013-01-11 Configure ngircd on 3g9xjm1. +Work @computer
+x 2013-01-16 Create instance for HHS Websphere in ER1 +EngineRoom +Work @computer
+x 2013-01-16 Create /APPS volume for cuimemdapp01, HHS WAS server +EngineRoom +Work @computer
+x 2013-01-16 Install IBM JDK on cuimemdapp01 +EngineRoom +Work @computer
+x 2013-01-16 Install IBMIM on cuimemdapp01 +EngineRoom +Work @computer
+x 2013-01-16 Install WAS on cuimemdapp01 +EngineRoom +Work @computer
+x 2013-01-17 Install ant on cuimemdapp01 +Work +EngineRoom +HHSMEM @computer
+x 2013-01-17 finish making the oracle machine for Ricky Motes and ER1 +Work +EngineRoom @computer
+x 2013-01-17 Create and add curam user to cuimemd[app|xml]01 +Work +EngineRoom +HHSMEM @computer
+x 2013-01-17 Create instance cuimemdxml01 in ER1 +Work +EngineRoom +HHSMEM @computer
+x 2013-01-17 mkdir cuimemd[app|xml]01:/opt/ibm/curam and make it owned and writable by curam +Work +EngineRoom +HHSMEM @computer
+x 2013-01-22 Install WAS fixpacks on cuimemdapp01 +Work +EngineRoom +HHSMEM @computer
+x 2013-01-22 Make a cname of uloc to 3g9xjm1 +Work +ULOC @computer
+x 2013-01-22 make NOC and Network channels in ngircd on 3g9xjm1 +Work @computer
+x 2013-01-29 Get flu shot +Personal @errands
+x 2013-01-29 Look up David White's email address +Personal +Retirement @computer
+x 2013-01-29 Figure out why snapshot of cuimemdapp01 remains in queued status. +Work +EngineRoom +DHHS @computer
+x 2013-01-29 Make snapshot of cuimemdxml01 +Work +EngineRoom +DHHS @computer
+x 2013-01-29 Pay bills +Personal +Financial @computer
+x 2013-01-29 Pay water bill +Personal @computer
+x 2013-01-29 Put fresh sheets on master bed +Personal +Chores @home
+x 2013-01-29 Put some teabags in my work bag. +Personal @home
+x 2013-02-12 Email David White re: Belize research +Personal +Retirement @computer
+x 2013-02-12 Get on cancellation list for Dr. Hollis at POA. +Personal @phone
+x 2013-02-12 Request copy of hip MRI be sent to POA. +Personal @phone
+x 2013-02-12 Talk to ChrisJ re: log rotation for ESX hosts +ULOC +Work @computer
+x 2013-02-12 Order checks +Personal +Financial @computer
+x 2013-02-12 Find howto ngircd +Personal @computer
+x 2013-02-12 Visit and bookmark the 3 Laws of Performance website +Personal +PersonalDevelopment @computer
+x 2013-02-12 Call HR re short term disability. +Work +Personal @phone
+x 2013-02-13 Run dishwasher +Personal @home
+x 2013-02-13 Wash pots, plasticware and cups +Personal +Chores @home
+x 2013-02-13 Drop stuff at library +Personal
+x 2013-02-13 Drop Rx at Walgreens +Personal @errands
+x 2013-02-13 Synch rhel 6 x86_64 channel on ccitrhnsat01 +Work +Satellite @computer
+x 2013-02-14 Empty dishwasher +Personal +Chores @home
+x 2013-02-14 Dry two loads of clothes. +Personal +Chores @home
+x 2013-02-14 Wash three loads of clothes. +Personal +Chores @home
+x 2013-02-14 Fold one load of clothes. +Personal +Chores @home
+x 2013-02-14 Take out kitchen trash +Personal +Chores @home
+x 2013-02-14 Swish-n-swipe master bathroom. +Personal +Chores @home
+x 2013-02-14 Take out recyclables. +Personal +Chores @home
+x 2013-02-14 Figure out Satellite error. +Work +Satellite @computer
+x 2013-02-14 Figure out how to back up satellite oracle db. +Work +Satellite @computer
+x 2013-02-14 Back up satellite oracle db. +Work +Satellite @computer
+x 2013-02-14 Extend satellite DATA_TBS table space +Work +Satellite @computer
+x 2013-02-14 Synch rhel 5 x86_64 channel on ccitrhnsat01 +Work +Satellite @computer
+x 2013-02-14 Create base activations keys for RHEL5 and RHEL6. +Work +Satelitte @computer
+x 2013-02-14 Create basic bootstrap scripts for RHEL5 and RHEL6. +Work +Satelitte @computer
+x 2013-02-15 Wash one load of laundry +Personal +Chores @home
+x 2013-02-15 Dry one load of laundry +Personal +Chores @home
+x 2013-02-15 Roll trash can to street. +Personal +Chores @home
+x 2013-02-15 Pay bills. +Personal @home
+x 2013-02-15 Transfer money to savings accounts. +Personal @computer
+x 2013-02-15 Write lunch checks for boys. +Personal @home
+x 2013-02-15 Verify if dell laptop is 32 bit or 64 bit. +Personal @home @computer
+x 2013-02-15 Take out bathroom and kitchen trash +Personal +Chores @home
+x 2013-02-15 Empty dish drain. +Personal +Chores @home
+x 2013-02-15 Get a $50 bill from BoA ATM +Personal @errands
+x 2013-02-15 Mail claims forms at post office. +Personal @errands
+x 2013-02-15 Get applesauce for Isaiah +Personal @errands
+x 2013-02-15 Make deposit at 1st Citizens +Personal @errands
+x 2013-02-15 Take lunch check 4 MJB 2 PRE. +Personal @errands
+x 2013-02-15 Pick up Rx from Walgreens +Personal @errands
+x 2013-02-15 Buy notebook paper for boys. +Personal @errands
+x 2013-02-15 Fold one load of laundry +Personal +Chores @home
+x 2013-02-15 Pick up MJ from school. +Personal @errands
+x 2013-02-17 Put fresh sheets on master bed. +Personal +Chores @home
+x 2013-02-17 Wash two loads of clothes. +Personal +Chores @home
+x 2013-02-17 Dry one load of clothes. +Personal +Chores @home
+x 2013-02-17 Fold one load of clothes. +Personal +Chores @home
+x 2013-02-17 Put away dishes from dish drain. +Personal +Chores @home
+x 2013-02-17 Rip 4 jazz CDs. +Personal @home @computer
+x 2013-02-17 Wash dishes. +Personal +Chores @home
+x 2013-02-22 Write sympathy card for Carol. +Personal @home
+x 2013-02-22 Sign epms. +Work @home
+x 2013-02-22 Scan emps +Work @computer @home
+x 2013-02-22 Email epms to Mike and Beck. +Work @computer @home
+x 2013-02-22 Verify access to cuimemdapp01 with hhs ssh key. +Work +EngineRoom @computer
+x 2013-02-22 Verify access to cuimemdxml01 with hhs ssh key. +Work +EngineRoom @computer
+x 2013-02-22 Take out kitchen trash and recyclables. +Personal +Chores @home
+x 2013-02-22 Roll trash and recyclables bins to curb. +Personal +Chores @home
+x 2013-02-22 Get mail. +Personal +Chores @home
+x 2013-02-22 Run dishwasher. +Personal +Chores @home
+x 2013-02-22 Put away dishes from dish drain. +Personal +Chores @home
+x 2013-02-22 Call Megan re remote work in Charleston. +Personal @phone
+x 2013-02-22 Pick up Miles from school. +Personal @errands
+x 2013-02-22 Mail sympathy card to Carol. +Personal @errands
+x 2013-02-22 Dry 3 loads of laundry +Personal +Chores @home
+x 2013-02-22 Wash 4 loads of laundry +Personal +Chores @home
+x 2013-02-22 Fold 3 loads of laundry +Personal +Chores @home
+x 2013-02-22 Wash dishes. +Personal +Chores @home
+x 2013-02-24 Open Allstate bill and schedule the payment. +Personal +Bills @computer @home
+x 2013-02-24 Open mortgage bill and schedule payment +Personal +Bills @computer @home
+x 2013-02-24 Put out fresh towels in both bathrooms. +Personal +Chores @home
+x 2013-02-24 Get 20 bags of mulch from Home Depot. +Personal +YardBeautification @errands
+x 2013-02-24 Put away dishes from dish drain. +Personal +Chores @home
+x 2013-02-24 Remove old leftovers from fridge & discard. +Personal +Chores @home
+x 2013-02-24 Wash empty containers after discarding old leftovers. +Personal +Chores @home
+x 2013-02-24 Fold 2 loads of laundry. +Personal +Chores @home
+x 2013-02-24 Wash 2 loads of laundry. +Personal +Chores @home
+x 2013-02-24 Check status of medical flex spending account. +Personal @computer
+x 2013-02-25 Dry 2 loads of laundry. +Personal +Chores @home
+x 2013-02-25 Put fresh sheets on master bed. +Personal +Chores @home
+x 2013-02-25 Take MJB to school. +Personal @errands
+x 2013-02-25 Call myfbmc about documentation I submitted but not shown on website. +Personal @phone @computer
+x 2013-02-25 Put in sick days in CUBS. +Work @computer
+x 2013-02-25 Upload Halprin on devops to clemson.box.com +Work +EngineRoom @computer
+x 2013-02-25 Do six Pomodoros of work email. +Work @computer
+x 2013-02-26 Ask about moving embedded Oracle DB on Satellite IRC channel. +Work +Satellite @computer
+x 2013-02-26 relocate rhnsat oracle files. +Work +Satellite @computer
+x 2013-02-26 Do 4 pomodoros of email +Work @computer
+x 2013-02-26 Pick up CIB from LAX practice. +Personal @errands
+x 2013-02-26 Pick up MJB from school. +Personal @errands
+x 2013-02-26 Pay MRI bill. +Personal +Bills @computer
+x 2013-02-26 Throw away sheets currently on master bed. +Personal +Chores @home
+x 2013-02-26 Add bind mount to fstab on ccitrhnsat01. +Work +Satellite @computer
+x 2013-02-26 Disable selinux on ccitrhnsat01. +Work +Satellite @computer
+x 2013-02-27 Take out kitchen trash and recyclables. +Personal +Chores @home
+x 2013-02-27 Wash one load of laundry. +Personal +Chores @home
+x 2013-02-27 Dry one load of laundry. +Personal +Chores @home
+x 2013-02-27 Take MJB to school. +Personal @errands
+x 2013-02-27 Wipe down kitchen trash can. +Personal +Chores @home
+x 2013-02-27 Let Eric Youmans know about ITC Windows admin job. +Work @computer
+x 2013-02-27 Four pomodoros worth of email clean up. +Work @computer
+x 2013-02-27 Synch rhel 4 x86_64 channel on ccitrhnsat01 +Work +Satellite @computer
+x 2013-02-27 Go to Sam's for gas and dishwasher detergent. +Personal @errands
+x 2013-02-28 Order BP RX refill. +Personal @phone
+x 2013-02-28 Look for origami paper plane dvd. +Personal @home
+x 2013-02-28 Add cabbage to crockpot at 1530. +Personal +Chores @home
+x 2013-02-28 Fold one load of laundry. +Personal +Chores @home
+x 2013-03-02 Walk in Furman Therapy pool for 30-60 minutes. +Personal +Health @errands
+x 2013-03-02 Balance checkbook for Planned Expenses. +Personal +Finance @computer @home
+x 2013-03-02 Start ledger for Living Expenses. +Personal +Finance @computer @home
+x 2013-03-02 Pay bills. +Personal +Finance @computer @home
+x 2013-03-02 Pick up Rx's for CIB & me from Walgreens. +Personal +Health @errands
+x 2013-03-02 Help grocery shop for dinner 20130302. +Personal +Chores @errands
+x 2013-03-02 Help put away groceries. +Personal +Chores @home
+x 2013-03-02 Help make dinner 20130302. +Personal +Chores @home
+x 2013-03-02 Fold two loads of laundry. +Personal +Chores @home
+x 2013-03-02 Dry one load of laundry. +Personal +Chores @home
+x 2013-03-02 Wash two loads of laundry. +Personal +Chores @home
+x 2013-03-03 Print dinner menu calendar for March. +Personal +Chores @computer
+x 2013-03-03 Clip finger nails. +Personal +Grooming @home
+x 2013-03-03 Charge booklight batteries. +Personal +Chores @home
+x 2013-03-03 Setup transfers to CIB's checking account. +Personal +Finance @computer
+x 2013-03-03 Transfer CIB's  allowance to his checking account. +Personal +Finance @computer
+x 2013-03-03 Setup dropbox on nexus phone. +Personal @computer @phone
+x 2013-03-03 Setup keepass on nexus phone. +Personal @computer @phone
+x 2013-03-03 Wash four loads of laundry. +Personal +Chores @home
+x 2013-03-03 Dry three loads of laundry. +Personal +Chores @home
+x 2013-03-03 Fold three loads of laundry. +Personal +Chores @home
+x 2013-03-03 Help make menu for the week. +Personal +Chores @home
+x 2013-03-03 Help make grocery list for the week. +Personal +Chores @home
+x 2013-03-04 Gather cups, glasses from around the house and put in dishwasher. +Personal +Chores @home
+x 2013-03-04 Wash two loads of laundry. +Personal +Chores @home
+x 2013-03-04 Dry two loads of laundry. +Personal +Chores @home
+x 2013-03-04 Fold two loads of laundry. +Personal +Chores @home
+x 2013-03-04 Put out fresh towels in both bathrooms. +Personal +Chores @home
+x 2013-03-04 Get change for MJB's allowance. +Personal +Finance @errands
+x 2013-03-04 Get forms notarized. +SellDadsHouse +Personal @errands
+x 2013-03-04 Mail notarized forms. +SellDadsHouse +Personal @errands
+x 2013-03-04 Take MJB to LAX practice. +Personal @errands
+x 2013-03-04 Look up juice diet needs for the week and share with LEB. +Personal +Health @computer
+x 2013-03-04 Pick up Beneath the Bleeding from the Symmes Library. +Personal @errands
+x 2013-03-04 Give MJB his allowance. +Personal +Finance @home
+x 2013-03-04 Take CIB to library. +Personal @errands.
+x 2013-03-04 Run dishwasher. +Personal +Chores @home
+x 2013-03-04 Put away dinner leftovers. +Personal +Chores @home
+x 2013-03-05 Wash two loads of laundry. +Personal +Chores @home
+x 2013-03-05 Dry one load of laundry. +Personal +Chores @home
+x 2013-03-05 Verify that UPS package is out for delivery or has been delivered to Medley Law. +Personal +SellDadsHouse @computer
+x 2013-03-05 Make sure I've responded to all calendar hits in xmail.clemson.edu +Work @computer
+x 2013-03-05 Put POA appointments on xmail.clemson.edu calendar. +Work @computer
+x 2013-03-05 Put POA appointments on g.clemson.edu calendar. +Work @computer
+x 2013-03-05 Put POA appointments on google calendar. +Personal @computer
+x 2013-03-05 Check oil level in Cadillac. +Personal +AutoMaintenance @home
+x 2013-03-05 Run apt-get update & dist-upgrade on 3g9xjm1. +Work @computer
+x 2013-03-05 Remove old 3.5.0-17.28 kernel from 3g9xjm1. +Work @computer
+x 2013-03-05 Synch rhel 6 i386 channel on ccitrhnsat01 +Work +Satellite @computer
+x 2013-03-05 Synch rhel 5 i386 channel on ccitrhnsat01 +Work +Satellite @computer
+x 2013-03-05 Check for EHS LAX volunteer days, times and duties. +Personal @computer
+x 2013-03-05 Email Cindy Stewart re: EHS LAX volunteer opps. +Personal @computer
+x 2013-03-05 Check for and open new mail. +Personal @home
+x 2013-03-05 Pick up MJB from school. +Personal @errands
+x 2013-03-05 Scan recent bills, etc. +Personal +Chores +Finance @computer
+x 2013-03-05 Deposit flex spending check. +Personal +Finance @errands
+x 2013-03-06 Update checkbook, debit card and cash registers. +Personal +Finance @computer
+x 2013-03-06 Dry one load of laundry. +Personal +Chores @home
+x 2013-03-06 Fold one load of laundry. +Personal +Chores @home
+x 2013-03-06 Make appointment, 864.242.3940, to get Cadillac oil changed. +Personal @phone
+x 2013-03-06 Call myfbmc, 800.342.8017, to see what documentation they are missing. +Personal +Finance @phone @computer
+x 2013-03-06 Synch rhel 4 i386 channel on ccitrhnsat01 +Work +Satellite @computer
+x 2013-03-06 Create a chbaker@clemson.edu account at https://access.redhat.com/ +Work +Satellite @computer
+x 2013-03-06 Fix 'Warning - high tablespace usage on Satellite oracle DB' +Work +Satellite @computer
+x 2013-03-06 Re-read 'http://people.redhat.com/tcameron/Summit2012/Satellite_System_Deployment/cameron_t_1040_RHNSatellite_Power_User_Tips-n-Tricks_Pt_1.pdf' to see how to make cloned and locked channels. +Work +Satellite @computer
+x 2013-03-06 Find out why yum upgrade not working on ccitrhnsat01. +Work +Satellite @computer
+x 2013-03-06 Do a yum upgrade on ccitrhnsat01. +Work +Satellite @computer
+x 2013-03-08 Organize veggie and fruit buying for juicing in Google drive. +Personal +Health @computer
+x 2013-03-08 Call POA, 864.234.7654, to verify post MRI consultation before epidural injection. +Personal +Health @phone @computer
+x 2013-03-08 Get MRI at 0900 on 20130308. +Personal +Health @errands
+x 2013-03-08 Five minutes of scanning and discarding documents. +Personal +Declutter @home
+x 2013-03-11 Walk in Furman Therapy pool for 30-60 minutes. +Personal +Health @errands
+x 2013-03-11 Create userids in Satellite for helpme, mwood, beck, mikec. +Work +Satellite @computer
+x 2013-03-11 Open a ticket re: internal server error when trying to create new activation key. +Work +Satellite @computer
+x 2013-03-11 Ask Michelle if she will be available to capture how Beck makes the searchable archive. +Work +Documentation @computer
+x 2013-03-11 Create a Satellite email list and ask Beck to set up searchable archive. +Work +Satellite @computer
+x 2013-03-11 Wash three loads of laundry. +Personal +Chores @home
+x 2013-03-11 Fold three loads of laundry. +Personal +Chores @home
+x 2013-03-11 Dry three loads of laundry. +Personal +Chores @home
+x 2013-03-11 Put fresh sheets on master bed. +Personal +Chores @home
+x 2013-03-11 Run dishwasher. +Personal +Chores @home
+x 2013-03-12 Collect cups from around the house. +Personal +Chores @home
+x 2013-03-12 Take out recyclables. +Personal +Chores @home
+x 2013-03-12 Take the boys to school. +Personal @errands
+x 2013-03-12 Take out kitchen trash. +Personal +Chores @home
+x 2013-03-12 Empty dishwasher. +Personal +Chores @home
+x 2013-03-12 Email Brian re: Satellite list archive. +Work +Satellite @computer
+x 2013-03-12 Collect required data for RHEL Satellite ticket. +Work +Satellite @computer
+x 2013-03-12 Wash three loads of laundry. +Personal +Chores @home
+x 2013-03-12 Wash dishes. +Personal +Chores @home
+x 2013-03-12 Email Brian and Mike re www.clemson.edu. +Work @computer
+x 2013-03-12 Do a yum upgrade on ccitrhnsat01. +Work +Satellite @computer
+x 2013-03-12 Fold three loads of laundry. +Personal +Chores @home
+x 2013-03-12 Dry three loads of laundry. +Personal +Chores @home
+x 2013-03-13 Call POA re MRI discussion prior to epidural. +Personal +Health @phone
+x 2013-03-13 Wash two loads of laundry. +Personal +Chores @home
+x 2013-03-13 Dry two loads of laundry. +Personal +Chores @home
+x 2013-03-13 Finish washing dishes. +Personal +Chores @home
+x 2013-03-13 Get apple pie ingredients from store for CIB. +Personal @errands
+x 2013-03-13 Get mushroom soup for stew as per LEB from store. +Personal @errands
+x 2013-03-13 Fold two loads of laundry. +Personal +Chores @home
+x 2013-03-13 Open ports on cubsdb1 for connections from devcubsweb4 as per Clayton James via email. +Work +ULOC @computer
+x 2013-03-13 Do more troubleshooting of satellite as per RHEL support. +Work +Satellite @computer
+x 2013-03-13 Ask again for a list of servers that the bootstrap scripts can be tried on. +Work +Satellite @computer
+x 2013-03-13 Set up direct deposit to Living Expenses and savings accounts. +Personal +Finance @computer
+x 2013-03-14 Check shipping status of mattress. +Personal @computer
+x 2013-03-14 Make deposit to 1st Citizens account. +Personal +Finance @errands
+x 2013-03-14 Put away leftover beef stew. +Personal +Chores @home
+x 2013-03-14 Take boys to school. +Personal @errands
+x 2013-03-14 Run dishwasher. +Personal +Chores @home
+x 2013-03-14 Wash remaining dishes. +Personal +Chores @home
+x 2013-03-14 Write, scan and mail check to Coggins, CPA, LLC +Personal +Finance @home
+x 2013-03-14 Scan and mail Milestone Medical payment. +Personal +Finance @home
+x 2013-03-14 Wash one load of laundry. +Personal +Chores @home
+x 2013-03-14 Dry one load of laundry. +Personal +Chores @home
+x 2013-03-14 Take out kitchen trash & recyclables. +Personal +Chores @home
+x 2013-03-14 Investigate satellite schema update. +Work +Satellite @computer
+x 2013-03-14 Do more troubleshooting of satellite as per RHEL support. +Work +Satellite @computer
+x 2013-03-14 Answer Yang's question re: hardware raid. +Work @computer
+x 2013-03-15 Roll trash to curb. +Personal +Chores @home
+x 2013-03-15 Pick up MJB from school. +Personal @errands
+x 2013-03-15 Fold one load of laundry. +Personal +Chores @home
+x 2013-03-15 Take boys to school. +Personal @errands
+x 2013-03-15 Take out bathroom and kitchen trash. +Personal +Chores @home
+x 2013-03-15 Wash dishes. +Personal +Chores @home
+x 2013-03-15 Add Matt Lilli to RHELSatellite list. +Work +Satellite @computer
+x 2013-03-15 Do ticket 365105. +Work +ULOC @computer
+x 2013-03-15 Take out recyclables. +Personal +Chores @home
+x 2013-03-15 Pick up MJB from school. +Personal @errands
+x 2013-03-16 Walk in Furman Therapy pool for 30-60 minutes. +Personal +Health @errands
+x 2013-03-17 Walk in Furman Therapy pool for 30-60 minutes. +Personal +Health @errands
+x 2013-03-18 Fix usage in todo.sh addon: edit +Work @computer
+x 2013-03-18 Fix usage in todo.sh addon: paper +Work @computer
+x 2013-03-18 Fix usage in todo.sh addon: projectview +Work @computer
+x 2013-03-18 Fix usage in todo.sh addon: view +Work @computer
+x 2013-03-18 Set perms on todo.sh addon lately.py to 644. +Work @computer
+x 2013-03-18 Scp fixed todo.sh addons from rain to reacher. +Work @computer
+x 2013-03-18 Change email address of ccitadmin from uloc@clemson.edu to RHELSatellite@lists.clemson.edu +Satellite +Work @computer
+x 2013-03-18 Do a dist-upgrade on rain. +Work @computer
+x 2013-03-18 Do a dist-upgrade on reacher. +Work @computer
+x 2013-03-18 Check if a dist-upgrade is needed on 3g9xjm1. +Work @computer
+x 2013-03-18 Install rhn-upgrade on ccitrhnsat01. +Work +Satellite @computer
+x 2013-03-18 Shutdown satellite on ccitrhnsat01. +Work +Satellite @computer
+x 2013-03-18 Start oracle on ccitrhnsat01. +Work +Satellite @computer
+x 2013-03-18 Backup oracle on ccitrhnsat01. +Work +Satellite @computer
+x 2013-03-18 Update satellite schema on ccitrhnsat01. +Work +Satellite @computer
+x 2013-03-18 Stop oracle on ccitrhnsat01. +Work +Satellite @computer
+x 2013-03-18 Start satellite on ccitrhnsat01. +Work +Satellite @computer
+x 2013-03-18 Verify that Satellite WebUI still works. +Work +Satellite @computer
+x 2013-03-18 Email michelle, sandi, et. al. re userids, passwords and satellite url. +Work +Satellite @computer
+x 2013-03-18 Dry two loads of laundry. +Personal +Chores @home
+x 2013-03-18 Fold three loads of laundry. +Personal +Chores @home
+x 2013-03-18 Wash three loads of laundry. +Personal +Chores @home
+x 2013-03-18 Put away dinner leftovers. +Personal +Chores @home
+x 2013-03-18 Buy 2 quarts of oil for Cadillac. +Personal @errands
+x 2013-03-18 Put 1 quart of oil in Cadillac. +Personal +Chores @car
+x 2013-03-19 Call POA & schedule appt. w/ Hollis in 8 weeks. Ask for MRI copy. +Personal @phone
+x 2013-03-19 Put away dishes from dishdrain. +Personal +Chores @home
+x 2013-03-19 Take out kitchen trash and recycle. +Personal +Chores @home
+x 2013-03-19 Wash one load of laundry. +Personal +Chores @home
+x 2013-03-19 Dry one load of laundry. +Personal +Chores @home
+x 2013-03-19 Do a dist-upgrade on rain. +Work @computer
+x 2013-03-19 Do a dist-upgrade on reacher. +Work @computer
+x 2013-03-19 Configure NTP on extrhnsat01. +Work +Satellite @computer
+x 2013-03-19 mount extrhnsat01:/dev/sdb1 as /var/satellite +Work +Satellite @computer
+x 2013-03-19 bind mount /rhnsat at /var/satellite/rhnsat +Work +Satellite @computer
+x 2013-03-19 Partition and mkfs on extrhnsat01:/dev/sdb +Work +Satellite @computer
+x 2013-03-19 Configure extrhnsat:/etc/fstab +Work +Satellite @computer
+x 2013-03-19 Call Morgan Poultry Center re: eggs for sale. +Personal @phone
+x 2013-03-19 Install salt-master and salt-minion on reacher. +Work +EngineRoom @computer
+x 2013-03-19 Install salt-minion on neptune. +Work +EngineRoom @computer
+x 2013-03-19 Configure reacher salt-minion to use reacher's salt-master. +Work +EngineRoom @computer
+x 2013-03-19 Configure neptune salt-minion to use reacher's salt-master. +Work +EngineRoom @computer
+x 2013-03-19 Get userid and password for testkick from Dexter. +Work @computer
+x 2013-03-20 Fold one load of laundry. +Personal +Chores @home
+x 2013-03-20 Take out bathroom trash. +Personal +Chores @home
+x 2013-03-20 Take out recyclables. +Personal +Chores @home
+x 2013-03-20 Load and run dishwasher. +Personal +Chores @home
+x 2013-03-20 Wash two loads of laundry. +Personal +Chores @home
+x 2013-03-20 Dry two loads of laundry. +Personal +Chores @home
+x 2013-03-20 Contact LEB re: improper crockpot setting. +Personal @phone
+x 2013-03-20 Reset crockpot to proper temperature and time. +Personal +Chores @home
+x 2013-03-20 Make master bed. +Personal +Chores @home
+x 2013-03-20 Spray master tub w/ antimildew stuff. +Personal +Chores @home
+x 2013-03-20 Put away dishes from dishdrain. +Personal +Chores @home
+x 2013-03-20 Do a dist-upgrade on reacher. +Work @computer
+x 2013-03-20 Do a dist-upgrade on rain. +Work @computer
+x 2013-03-20 Create activation keys for each base channel in Satellite. +Work +Satellite @computer
+x 2013-03-20 Update existing bootstrap script to turn off automatic updates. +Work +Satellite @computer
+x 2013-03-20 Rename existing base activation keys. +Work +Satellite @computer
+x 2013-03-20 Verify OS load on extccitrhnsat01. +Work +Satellite @computer
+x 2013-03-20 Send Lanae, Yang and Yi info on WiAC conference. +Work @computer
+x 2013-03-20 Follow up with Beck and Michelle re: RHELSatellite@lists.clemson.edu weirdness. +Work @computer
+x 2013-03-20 Try to reconfigure rhelsatellite list. +Work +Satellite @computer
+x 2013-03-20 Create bootstrap scripts for each base channel. +Work +Satellite @computer
+x 2013-03-20 2012-11-09 Ask team about kanban +EngineRoom +Work @computer
+x 2013-03-20 Buy more rechargeable AAA & AA batteries. +Personal @errands
+x 2013-03-20 Recheck oil in Cadillac +Personal +Chores @car
+x 2013-03-20 Open all my mail +Personal @home
+x 2013-03-20 Install vagrant on reacher. +Personal @computer
+x 2013-03-21 Do a dist-upgrade on rain. +Work @computer
+x 2013-03-21 Do a dist-upgrade on reacher. +Work @computer
+x 2013-03-22 Check out MattG's saltstack Oracle stuff. +Work +EngineRoom @computer
+x 2013-03-23 Fold one load of laundry. +Personal +Chores @home
+x 2013-03-23 Dry one load of laundry +Personal +Chores @home
+x 2013-03-23 Wash one load of laundry +Personal +Chores @home
+x 2013-03-23 Take old mattress to dump. +Personal +Chores @errands
+x 2013-03-23 Take GAB stuff she left at the house. +Personal @errands
+x 2013-03-23 Fill van's gas tank. +Personal @errands
+x 2013-03-23 Request ebill for Allstate car insurance. +Personal +Finance @computer
+x 2013-03-25 Unsubscribe from jmeter mailing list. +Work @computer
+x 2013-03-25 2013-03-25 Check if a dist-upgrade is needed on 3g9xjm1. +Work @computer
+x 2013-03-26 Verify that sched.lakeside.clemson.edu is in DNS. +Work @computer
+x 2013-03-26 Get HHS usage csv files from Openstack and send to Richard. +Work +EngineRoom @computer
+x 2013-03-26 Troubleshoot devhhsesb0[12] and report findings. +Work +EngineRoom @computer
+x 2013-03-26 Get information on data dedup and thin provisioning for Richard. +Work +EngineRoom @computer
+x 2013-03-26 Verify with storage group that we don't use dedup. +Work +EngineRoom @computer
+x 2013-03-26 Make the case for not using the old standard build in the new cloud environment. +Work +EngineRoom @computer
+x 2013-03-27 Download the "State of Devops" materials from puppetlabs. +Work +EngineRoom @computer
+x 2013-03-27 Share the "State of Devops" link from puppetlabs with Richard. +Work +EngineRoom @computer
+x 2013-03-27 Solve the samqfs15 full root partition problem. +Work @computer
+x 2013-03-27 Get word to Larry Billado or Brian Parker re an outbound NAT for the EngineRoom. +Work +EngineRoom @computer
+x 2013-03-27 Continue to troubleshoot devhhsesb0[12] and report findings. +Work +EngineRoom @computer
+x 2013-03-27 Follow up with Dierdre re the samqfs15 full root partition problem. +Work @computer
+x 2013-03-28 Continue to troubleshoot devhhsesb0[12], live in person at CUICAR, and report findings. +Work +EngineRoom @computer
+x 2013-03-28 Explain to Nate Leech and Rick Smith about the automation and cloud project. +Work +EngineRoom @computer
+x 2013-03-28 Try to answer Dierdre's question about Solaris11 patches. +Work @computer
+x 2013-03-28 Circulate the Ops Report Card ( http://www.opsreportcard.com/ ) among ULOC new hires and ask for their answers. +Work @computer
+x 2013-03-28 Update worklog. +Work @computer
+x 2013-03-28 Scan and discard more papers. +Personal +Declutter @home
+x 2013-03-28 Do a dist-upgrade on reacher. +Work @computer
+x 2013-03-28 Do a dist-upgrade on rain. +Work @computer
+x 2013-03-28 Help troubleshoot sisdg01. +Work +Banner @computer @phone
+x 2013-03-29 Check status of https://cuimemdapp01.clemson.edu:9044/Curam/logon.jsp, reported down by Brad Pridgeon. +Work +EngineRoom @computer
+x 2013-03-29 Check status of devhhsesb02, reported inaccesible by Rick Smith. +Work +EngineRoom @computer
+x 2013-03-29 Check PSS summing script at http://emilics.com/blog/article/mconsumption.html +Work @computer
+x 2013-03-29 Sum values of rss for sisdg01 as per MikeC. +Work +Banner @computer
+x 2013-04-01 Do a dist-upgrade on rain. +Work @computer
+x 2013-04-01 Do a dist-upgrade on reacher. +Work @computer
+x 2013-04-01 Update 'Days rhweb3, newrh2, rh10, etc alerted' in google docs +Work @computer
+x 2013-04-01 Read 'How to make better decisions' at http://www.startuplessonslearned.com/ +Work @computer
+x 2013-04-01 Fill out the training document as per MikeC. +Work @computer
+x 2013-04-01 Clean out g.clemson.edu email. +Work @computer
+x 2013-04-01 Take evernote picture of Dexter's biz card. +Personal @phone
+x 2013-04-01 2013-04-01 Check if a dist-upgrade is needed on 3g9xjm1. +Work @computer
+x 2013-04-02 Attend configuration management presentation. +Work @computer
+x 2013-04-02 Do a dist-upgrade on reacher. +Work @computer
+x 2013-04-02 Do a dist-upgrade on rain. +Work @computer
+x 2013-04-02 Update 'Days rhweb3, newrh2, rh10, etc alerted' in google docs +Work @computer
+x 2013-04-02 Write fabric code to backup /etc/sysconfig/rhn on servers from Sandi's list. +Work +Satellite @computer
+x 2013-04-02 Write fabric code to check backups of /etc/sysconfig/rhn on servers from Sandi's list. +Work +Satellite @computer
+x 2013-04-02 Write fabric code to remove backups of /etc/sysconfig/rhn on servers from Sandi's list. +Work +Satellite @computer
+x 2013-04-02 Write fabric code to check install status of wget and curl on servers from Sandi's list. +Work +Satellite @computer
+x 2013-04-02 Inbox zero on g.clemson.edu email. +Work @computer
+x 2013-04-03 Do a dist-upgrade on rain. +Work @computer
+x 2013-04-03 Do a dist-upgrade on reacher. +Work @computer
+x 2013-04-03 Talk to Dexter and MikeC re cloud backups. Propose solution via email. +Work +EngineRoom @itc
+x 2013-04-03 Write fabric code to backup /usr/share/rhn/RHN-ORG-TRUSTED-SSL-CERT. +Work +Satellite @computer
+x 2013-04-03 Talk to BrianB re cloud backup. +Work +EngineRoom @itc
+x 2013-04-03 Talk to Sandi re: current Satellite related work. +Work +Satellite @itc
+x 2013-04-03 Figure out fabric incantation to run the bootstrap scripts +Work +Satellite @computer
+x 2013-04-03 Debug failure to download client_config_update.py thrown by bootstrap scripts. +Work +Satellite @computer
+x 2013-04-03 Inbox zero g.clemson.edu mail. +Work @computer
+x 2013-04-04 Schedule appointment to get oil changed in Caddy. +AutoMaintenance @errands
+x 2013-04-04 Fold two loads of laundry. +Personal +Chores @home
+x 2013-04-04 Wash two loads of laundry. +Personal +Chores @home
+x 2013-04-04 Dry two loads of laundry. +Personal +Chores @home
+x 2013-04-04 Make bed. +Personal +Chores @home
+x 2013-04-04 Refill toilet paper 'tower' in master bathroom +Personal +Chores @home
+x 2013-04-04 Take folding chairs out to storage room. +Personal +Chores @home
+x 2013-04-04 Empty kitchen trash. +Personal +Chores @home
+x 2013-04-04 Take out recyclables. +Personal +Chores @home
+x 2013-04-04 Put dishes in dishwasher. +Personal +Chores @home
+x 2013-04-04 Wash one load of laundry. +Personal +Chores @home
+x 2013-04-04 Dry one load of laundry. +Personal +Chores @home
+x 2013-04-04 Inbox zero g.clemson.edu mail. +Work @computer
+x 2013-04-04 2013-02-15 Medical Appointment +Personal @errands
+x 2013-04-04 Do a dist-upgrade on reacher. +Work @computer
+x 2013-04-04 Do a dist-upgrade on rain. +Work @computer
+x 2013-04-04 Download latest version of twiki. +Work +TwikiUpgrade @computer
+x 2013-04-04 Get oil changed in Cadillac. +Personal +AutoMaintenance @errands
+x 2013-04-04 Inbox zero g.clemson.edu mail. +Work @computer
+x 2013-04-04 Dry one load of laundry. +Personal +Chores @home
+x 2013-04-04 Take Isaiah to Greenville Eyecare for contact lens training. +Personal @errands
+x 2013-04-05 Inbox zero g.clemson.edu mail. +Work @computer
+x 2013-04-05 Do a dist-upgrade on rain. +Work @computer
+x 2013-04-05 Do a dist-upgrade on reacher. +Work @computer
+x 2013-04-05 Install RHEL 6 on twiki01. +Work +TwikiUpgrade @computer
+x 2013-04-09 Do a dist-upgrade on rain. +Work @computer
+x 2013-04-09 Inbox zero g.clemson.edu mail. +Work @computer
+x 2013-04-09 Clean out xmail.clemson.edu email back to 20130331. +Work @computer
+x 2013-04-15 Do a dist-upgrade on rain. +Work @computer
+x 2013-04-15 Do a dist-upgrade on reacher. +Work @computer
+x 2013-04-15 Fold two loads of laundry. +Personal +Chores @home
+x 2013-04-15 Dry one load of laundry. +Personal +Chores @home
+x 2013-04-15 Wash one load of laundry. +Personal +Chores @home
+x 2013-04-15 Sign up for evernote premium w/ notebook discount. +Personal @computer
+x 2013-04-15 Put away dishes from dish drain. +Personal +Chores @home
+x 2013-04-15 Put eligible dishes into dishwasher. +Personal +Chores @home
+x 2013-04-15 Write and hand over lunch checks for CIB and MJB. +Personal +Finance @home
+x 2013-04-15 Take MJB to school. +Personal @errands
+x 2013-04-15 Wash one load of laundry. +Personal +Chores @home
+x 2013-04-15 Dry one load of laundry. +Personal +Chores @home
+x 2013-04-15 Help unload groceries from van. +Personal +Chores @home
+x 2013-04-15 Help put away groceries. +Personal +Chores @home
+x 2013-04-15 2013-04-08 Check if a dist-upgrade is needed on 3g9xjm1. +Work @computer
+x 2013-04-15 Dry one load of laundry. +Personal +Chores @home
+x 2013-04-15 Wash one load of laundry. +Personal +Chores @home
+x 2013-04-15 Fold one load of laundry. +Personal +Chores @home
+x 2013-04-16 Drop yellow jacket at cleaners on Congaree by waffle house. +Personal @errands
+x 2013-04-16 Wash one load of laundry. +Personal +Chores @home
+x 2013-04-16 Dry one load of laundry. +Personal +Chores @home
+x 2013-04-18 Do a dist-upgrade on reacher. +Work @computer
+x 2013-04-18 2013-04-15 Check if a dist-upgrade is needed on 3g9xjm1. +Work @computer
+x 2013-04-22 Fold one load of laundry. +Personal +Chores @home
+x 2013-04-22 Wash one load of laundry. +Personal +Chores @home
+x 2013-04-22 Dry one load of laundry. +Personal +Chores @home
+x 2013-04-22 Call law firm with account number for settlement. +Personal +Finance @computer
+x 2013-04-23 Fold one load of laundry. +Personal +Chores @home
+x 2013-04-23 Wash one load of laundry. +Personal +Chores @home
+x 2013-04-23 Dry one load of laundry. +Personal +Chores @home
+x 2013-04-23 Empty dishwasher and dish drain. +Personal +Chores @home
+x 2013-04-23 Do a dist-upgrade on reacher. +Work @computer
+x 2013-04-23 Do a dist-upgrade on rain. +Work @computer
+x 2013-04-23 2013-04-22 Check if a dist-upgrade is needed on 3g9xjm1. +Work @computer
+x 2013-04-23 Make  and attach volumes for cuimemdapp[06-11]. +Work +EngineRoom +DHHS @computer
+x 2013-04-23 Partition and format volumes on cuimemdapp[06-11]. +Work +EngineRoom +DHHS @computer
+x 2013-04-23 Install ant and IBM JDK on cuimemdapp[06-11]i via salt. +Work +EngineRoom +DHHS @computer
+x 2013-04-23 Install IBMIM on cuimemdapp[05-11]. +Work +EngineRoom +DHHS @computer
+x 2013-04-23 Install WAS 8.0.0.5 on cuimemdapp[05-11]. +Work +EngineRoom +DHHS @computer
+x 2013-04-23 Investigate silent install of IBMIM. +Work +EngineRoom +DHHS @computer
+x 2013-04-23 Investigate silent install of WAS. +Work +EngineRoom +DHHS @computer
+x 2013-04-23 Help Isaiah & Miles get dinner cooked. +Personal +Chores @home
+x 2013-04-24 Dry one load of laundry. +Personal +Chores @home
+x 2013-04-24 Wash one load of laundry. +Personal +Chores @home
+x 2013-04-24 Fold one load of laundry. +Personal +Chores @home
+x 2013-04-24 Identify the training I want to take at LOPSA East. +Work @computer
+x 2013-04-24 Email Zelda my LOPSA info and the training I want to take at LOPSA East. +Work @computer
+x 2013-04-25 Fix perms on WAS *.sh files +Work +EngineRoom +DHHS @computer
+x 2013-04-25 General WAS troubleshooting. +Work +EngineRoom +DHHS @computer
+x 2013-04-29 2013-04-29 Check if a dist-upgrade is needed on 3g9xjm1. +Work @computer
+x 2013-04-29 Do a dist-upgrade on rain. +Work @computer
+x 2013-04-29 Do a dist-upgrade on reacher. +Work @computer
+x 2013-04-29 EngineRoom meeting 1400-1630. +Work +EngineRoom @itc
+x 2013-04-30 Do a dist-upgrade on reacher. +Work @computer
+x 2013-04-30 Do a dist-upgrade on rain. +Work @computer
+x 2013-04-30 Put the example simple kanban page in my myweb space. +Work +OperationalCoherence @computer
+x 2013-04-30 Put the empty simple kanban page in my myweb space. +Work +OperationalCoherence @computer
+x 2013-04-30 Add ChrisJ to the SystemsChangeLog email list. +Work +OperationalCoherence @computer
+x 2013-04-30 Send ChrisJ & Dexter the info on searching the SystemsChangeLog email list archives. +Work +OperationalCoherence @computer
+x 2013-04-30 Meet w/ DonF, BrianB, JayH and MikeC re Operational Coherence. +Work +OperationalCoherence @itc
+x 2013-04-30 Add today's tasks to the empty simple kanban page in my myweb space. +Work +OperationalCoherence @computer
+x 2013-04-30 Find box.clemson.edu URL and login info. +Work +OperationalCoherence @computer
+x 2013-04-30 Email DonF, BrianB, JayH and MikeC link to box and video. +Work +OperationalCoherence @computer
+x 2013-05-01 Do a dist-upgrade on reacher. +Work @computer
+x 2013-05-01 Do a dist-upgrade on rain. +Work @computer
+x 2013-05-01 Reconstruct as much of meeting from memory as I can in my notebook. +Work +OperationalCoherence @computer
+x 2013-05-01 Locate section in 15 years of devops that talks about Kanban for ops. +Work +OperationalCoherence @computer
+x 2013-05-01 Answer Dierdre's questions about listserv. +Work @computer
+x 2013-05-01 Answer Dexter's question about 'script', 'cat', 'more' and 'less' +Work +OperationalCoherence @computer
+x 2013-05-01 Fold one load of laundry. +Personal +Chores @home
+x 2013-05-01 Wash one load of laundry. +Personal +Chores @home
+x 2013-05-01 Dry one load of laundry. +Personal +Chores @home
+x 2013-05-01 Email DonF, BrianB, JayH, MikeC \( hereafter known as GoF \) my notes from meeting. +Work +OperationalCoherence @computer
+x 2013-05-01 Email GoF re Nagios Upgrade. +Work +OperationalCoherence @computer
+x 2013-05-01 Email GoF my notes about kanban from the video. +Work +OperationalCoherence @computer
+x 2013-05-06 2013-05-06 Check if a dist-upgrade is needed on 3g9xjm1. +Work @computer
+x 2013-05-06 Do dist-upgrade on reacher. +Work @computer
+x 2013-05-06 Do dist-upgrade on rain. +Work @computer
+x 2013-05-06 InboxZero g.clemson.edu +Work @computer
+x 2013-05-06 Make 'the-test.txt' an editable google document. +Work +OperationalCoherence @computer
+x 2013-05-06 Ask Dennis about extra hard disks for Dell Optiplex workstation +Work @itc
+x 2013-05-06 Add the '3 empowering principles' to 'the-test.txt' google doc. +Work +OperationalCoherence @computer
+x 2013-05-06 Screen shot and text capture of current twiki configuration. +Work +TwikiUpgrade @computer
+x 2013-05-06 Run do-release-upgrade on 3g9xjm1. +Work @computer
+x 2013-05-07 Wash one load of laundry. +Personal +Chores @home
+x 2013-05-07 Dry one load of laundry. +Personal +Chores @home
+x 2013-05-07 Do dist-upgrade on rain. +Work @computer
+x 2013-05-07 Do dist-upgrade on reacher. +Work @computer
+x 2013-05-07 Make 'the-test.txt' an editable google web form/poll. +Work +OperationalCoherence @computer
+x 2013-05-07 F5 meeting. +Work +OperationalCoherence @itc
+x 2013-05-07 Install and simple configuration of Racktables on 3g9xmj1. +Work +OperationalCoherence @computer
+x 2013-05-07 InboxZero g.clemson.edu +Work @computer
+x 2013-05-07 Learn how to make google forms. +Work @computer
+x 2013-05-07 Create racktables user accts 4 dennisr, dexter & jayh. Email them credentials. +Work +OperationalCoherence @computer
+x 2013-05-08 Inbox zero g.clemson.edu mail. +Work @computer
+x 2013-05-08 Wash two loads of laundry. +Personal +Chores @home
+x 2013-05-08 Dry two loads of laundry. +Personal +Chores @home
+x 2013-05-08 Fold three loads of laundry. +Personal +Chores @home
+x 2013-05-08 Check if dist-upgrade is needed on reacher. +Work @computer
+x 2013-05-16 Do dist-upgrade on reacher. +Work @computer
+x 2013-05-16 Do dist-upgrade on rain. +Work @computer
+x 2013-05-22 Do dist-upgrade on rain. +Work @computer
+x 2013-05-22 Do dist-upgrade on reacher. +Work @computer
+x 2013-05-24 Fill out expense report from LOPSA-East trip. +Work @computer
+x 2013-05-24 Install dashboard on 3g9xmj1. +Work +OpsCo @computer
+x 2013-05-24 Install scrumbanPanel on 3g9xmj1. +Work +OpsCo @computer
+x 2013-05-24 Install kados on 3g9xmj1. +Work +OpsCo @computer
+x 2013-05-24 Do dist-upgrade on reacher. +Work @computer
+x 2013-05-24 Do dist-upgrade on rain. +Work @computer
+x 2013-05-26 Do dist-upgrade on reacher. +Work @computer
+x 2013-05-26 2013-05-10 Email Jimmy w/ findings. +Personal +TheBridgeTech @phone
+x 2013-05-26 2013-05-06 Look up service tags from small evernote notebook to get specs of Jimmy's Servers +Personal +TheBridgeTech @computer
+x 2013-05-26 Vacuum passenger compartment. +Personal  +CaddyMaintenance @errands
+x 2013-05-26 Take MJB to LAX practice. +Personal @errands
+x 2013-05-26 Swim in Furman Lap pool for 30 minutes. +Personal +Health @errands
+x 2013-05-26 Finish making master bed. +Personal +Chores @home
+x 2013-05-26 Write thank you card for Hitners. +Personal @home
+x 2013-05-26 Write thank you card for Kakouras family. +Personal @home
+x 2013-05-26 Deliver thank you card for Hitners. +Personal @home
+x 2013-05-26 Deliver thank you card for Kakouras family. +Personal @home
+x 2013-05-26 Put out fresh towels in master bathroom. +Personal +Chores @home
+x 2013-05-26 Clean master bathroom mirror. +Personal +Chores @home
+x 2013-05-26 Clean master bathroom vanity. +Personal +Chores @home
+x 2013-05-26 Clean master bathroom toilet. +Personal +Chores @home
+x 2013-05-26 Mop master bathroom floor. +Personal +Chores @home
+x 2013-05-26 Sweep master bathroom floor. +Personal +Chores @home

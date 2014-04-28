@@ -1,0 +1,9 @@
+(B) Use the copy of mgmt 201 on bbtest to make a test in LoadRunner +LoadTesting +Work @computer
+(A) Create a simple test of SIS/Banner in LoadRunner +LoadTesting +Work @computer
+(D) Use the copy of mgmt 201 on bbtest to make a test in WebLoad +LoadTesting +Work @computer
+(C) Create a simple test of SIS/Banner in WebLoad +LoadTesting +Work @computer
+(E) Email references re load testing +LoadTesting +Work @mbp
+Write LISA12 experience report +Lisa12 +Work @computer
+Install kanban web app on 3g9xjm1 +Work +ULOC @computer
+Share OCD FB conversation w/ LEB +Personal @computer
+2012-11-02 Jim Rohn on tipping for Dexter +Personal @pc
