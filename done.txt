@@ -3,3 +3,36 @@ x 2014-04-30 Figure out how to add errata to spacewalk. @work @computer +Spacewa
 x 2014-04-30 Fix nightly sync of spacewalk channels. @work @computer +Spacewalk
 x 2014-04-30 Performance review meeting w/ Padgett. @work
 x 2014-04-30 Write check for CIB's lunch. @home +Personal
+x 2014-05-01 Return shoulder cold/heat wrap. @errands @home +Personal
+x 2014-05-05 Reschedule dental appointment. @phone +Personal
+x 2014-05-05 Call Dexter. @phone +Personal
+x 2014-05-06 Email Padgett about mistakenly closing CTASK0020321 @computer @work +Email +Infor
+x 2014-05-06 Do CTASK0020321 @computer @work +DC4 +VMware +Infor
+x 2014-05-06 Review 'Shared Storage Design' document @computer @work +Infor +AMA
+x 2014-05-06 Go through followup and hold email folders and make tasks in todo.txt @computer +Infor +Email
+x 2014-05-06 Complete CTASK0020375. @work @computer +DC4 +Infor +VMware
+x 2014-05-06 Inbox Zero @computer @work +Infor +Email
+x 2014-05-07 Send student loan balance to LEB. @computer @email +Personal +Finance
+x 2014-05-08 Help victor figure out vms_folder script and postgresql @computer @work +Infor
+x 2014-05-08 Investigate having linux instance register itself w/ Windows DNS. @computer @work +Infor +AMA
+x 2014-05-08 Test using kinit and nsupdate to register linux instance w/ Windows DNS. @computer @work +Infor +AMA
+x 2014-05-08 Hit up Mike Windham about adding new VMs to Windows DNS. @computer @phone +DC4 +Infor +VMware
+x 2014-05-09 Standard Change CHG0020259 @work +VMware +DC4 +Infor
+x 2014-05-09 Mark CTASK0020292 complete. @computer @work +Infor +DC4 +VMware
+x 2014-05-09 Find out how to close out an Infor Service Now ticket. @work @computer +Infor
+x 2014-05-09 Pay bills @computer +Personal +Finance
+x 2014-05-09 Learn to clear EAM tenant cache. @work @computer +Infor +EAM
+x 2014-05-09 Document clearing EAM tenant cache. @work @computer +Infor +EAM
+x 2014-05-12 Add documentation on clearing EAM tenant cache to collab wiki. @work @computer +Infor +EAM
+x 2014-05-22 Order credit score. @computer +Personal +Finance
+x 2014-05-22 Order credit report. @computer +Personal +Finance
+x 2014-05-22 Complete Infor code of ethics and conduct training by 20140521 @computer @work +Infor
+x 2014-05-23 Do CHG0020385. Victor needs this ASAP. @work @computer +Infor +DC4 +VMware
+x 2014-05-27 Update MacOSX software @home @computer +Infor
+x 2014-05-28 Inbox zero. @work @computer +Infor +Email
+x 2014-05-28 Make a template from dbl039 w/o salt minion keys. +Infor +DC4 +VMWare @computer @work
+x 2014-05-28 Install saltstack on dbl0[38,39,43,44] @computer @work +Infor +DC4 +Vmware
+x 2014-05-29 Put EHS All Sports Banquet on calendar and invite Isaiah and Laura @computer +Personal
+x 2014-05-29 Inbox zero. @work @computer +Infor +Email
+x 2014-05-29 pri A Do CTASK0020456 @computer @work +Infor +VMware +DC4
+x 2014-06-02 Inbox zero. @work @computer +Infor +Email
