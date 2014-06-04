@@ -14,6 +14,7 @@ Come up with a topic to present at PH meeting in near future. +Personal
 Burn a copy of the most recent Bodhi Linux @computer @home +Personal
 Burn a copy of the most recent Crunchbang Linux @computer @home +Personal
 Look for pictures from Maya Angelou book signing. @home +Personal
-(A) Reconfigure stgmgtl03 w/ single NIC on 172.22.12.0/22 @work @computer +Infor +DC4 +VMware
+Register Isaiah & Miles for FU LAX Camps. @computer +Personal +Family
+Download RHEL 4.x 32 and 64 bit ISOs @home @computer +DC4 +Infor
 Inbox zero. @work @computer +Infor +Email
-Upgrade VMware 'hardware' and VMware tools on dbl048. @work @computer +Infor +DC4 +VMware
+Read the Pulp docs https://pulp-user-guide.readthedocs.org @computer +Infor +AMA

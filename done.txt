@@ -36,3 +36,16 @@ x 2014-05-29 Put EHS All Sports Banquet on calendar and invite Isaiah and Laura 
 x 2014-05-29 Inbox zero. @work @computer +Infor +Email
 x 2014-05-29 pri A Do CTASK0020456 @computer @work +Infor +VMware +DC4
 x 2014-06-02 Inbox zero. @work @computer +Infor +Email
+x 2014-06-02 Reconfigure stgmgtl03 w/ single NIC on 172.22.12.0/22 @work @computer +Infor +DC4 +VMware
+x 2014-06-03 Inbox zero. @work @computer +Infor +Email
+x 2014-06-03 Upgrade VMware 'hardware' and VMware tools on dbl048. @work @computer +Infor +DC4 +VMware
+x 2014-06-03 Delete the snapshot of dbl048 from prior to hardware upgrade. @work @computer +Infor +DC4 +VMware
+x 2014-06-03 Download RHEL 5.10 32 and 64 bit ISOs @home @computer +DC4 +Infor
+x 2014-06-03 Inbox zero. @work @computer +Infor +Email
+x 2014-06-04 Inbox zero. @work @computer +Infor +Email
+x 2014-06-04 Install Coffitivity on my MBP. @computer +Infor +Personal
+x 2014-06-04 Add a NIC on VLAN 119 to commserve01 for Victor Chen. @computer @work +Infor +DC4 +VMware
+x 2014-06-04 AMA standup meeting. @work @computer +Infor +AMA
+x 2014-06-04 AMA linux patching meeting. @work @computer +Infor +AMA
+x 2014-06-04 ServiceNow VMware workflow meeting @work @computer +Infor +VMware
+x 2014-06-04 Inbox zero. @work @computer +Infor +Email
