@@ -49,3 +49,15 @@ x 2014-06-04 AMA standup meeting. @work @computer +Infor +AMA
 x 2014-06-04 AMA linux patching meeting. @work @computer +Infor +AMA
 x 2014-06-04 ServiceNow VMware workflow meeting @work @computer +Infor +VMware
 x 2014-06-04 Inbox zero. @work @computer +Infor +Email
+x 2014-06-05 Complete CTASK0020441 @computer @work +Infor +DC4 +VMware
+x 2014-06-05 Add a NIC on VLAN 119 to commproxy01 for Victor Chen. @computer @work +Infor +DC4 +VMware
+x 2014-06-05 Show Victor Chen how to configure a NIC in linux. @computer @work +Infor
+x 2014-06-05 Inbox zero. @work @computer +Infor +Email
+x 2014-06-05 Answer Victor's questions about mounting a CIFS share from Linux. @computer @work +Infor
+x 2014-06-05 Do weekly review for Padgett team meeting at 1500 today. @computer @work +Infor
+x 2014-06-05 Inbox zero. @work @computer +Infor +Email
+x 2014-06-06 Complete CTASK0020539. @work @computer +Infor +DC4 +VMware
+x 2014-06-06 Complete CTASK0020540. @work @computer +Infor +DC4 +VMware
+x 2014-06-06 Complete CTASK0020545. @computer @work +Infor +DC4 +VMware
+x 2014-06-06 Adjust MBP power settings. @computer +Personal
+x 2014-06-06 Inbox zero. @work @computer +Infor +Email
