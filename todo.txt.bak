@@ -1,6 +1,5 @@
 Register eam11 servers with spacewalk server. @work @computer +Spacewalk +DC4 +Infor
 Sign up for AWS Partner portal. See infor email 4 details. @computer @work +AMA +Infor
-(A) Complete AMA-284 'Write Linux Hardening Policy' @computer @work +Infor +AMA-35
 (A) Complete AMA-285 'Create list of items to be hardened' @computer @work +Infor +AMA-35
 Complete CTASK0020391 @computer @work +Infor +DC4 +VMware
 Update Firefox @home @computer +Infor
@@ -15,3 +14,5 @@ Look for pictures from Maya Angelou book signing. @home +Personal
 Register Isaiah & Miles for FU LAX Camps. @computer +Personal +Family
 (C) Download RHEL 4.x 32 and 64 bit ISOs @home @computer +DC4 +Infor
 (B) Read the Pulp docs https://pulp-user-guide.readthedocs.org @computer +Infor +AMA
+Make a list of EAM servers w/ OS >= RHEL5. @computer @work +DC4 +Infor +Saltstack
+Use EAM server list to determine which ones still need to have saltstack installed. @computer @work +DC4 +Infor +Saltstack

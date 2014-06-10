@@ -61,3 +61,9 @@ x 2014-06-06 Complete CTASK0020540. @work @computer +Infor +DC4 +VMware
 x 2014-06-06 Complete CTASK0020545. @computer @work +Infor +DC4 +VMware
 x 2014-06-06 Adjust MBP power settings. @computer +Personal
 x 2014-06-06 Inbox zero. @work @computer +Infor +Email
+x 2014-06-09 Inbox zero. @work @computer +Infor +Email
+x 2014-06-10 Check /usr/local/bin/startall for an error on EAM 11 app servers. @work @computer +EAM +DC4 +Infor
+x 2014-06-10 Inbox zero. @work @computer +Infor +Email
+x 2014-06-10 Correct error in /usr/local/bin/startall on EAM 11 app servers. @work @computer +EAM +DC4 +Infor
+x 2014-06-10 Complete AMA-284 'Write Linux Hardening Policy' @computer @work +Infor +AMA-35
+x 2014-06-10 Inbox zero. @work @computer +Infor +Email
