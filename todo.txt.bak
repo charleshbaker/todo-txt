@@ -1,12 +1,11 @@
 Register eam11 servers with spacewalk server. @work @computer +Spacewalk +DC4 +Infor
 Sign up for AWS Partner portal. See infor email 4 details. @computer @work +AMA +Infor
-(A) Complete AMA-285 'Create list of items to be hardened' @computer @work +Infor +AMA-35
 Complete CTASK0020391 @computer @work +Infor +DC4 +VMware
 Update Firefox @home @computer +Infor
 Complete CTASK0020464 @computer @work +Infor +DC4 +VMware
 Complete CTASK0020376 @computer @work +Infor +DC4 +VMware
 Complete CTASK0020371 @computer @work +Infor +DC4 +VMware
-(B) Review patch policy document https://collab.aws.infor.com/wiki/display/AMA/Linux+Patch+Policy @work @computer +AMA +Infor
+(C) Review patch policy document https://collab.aws.infor.com/wiki/display/AMA/Linux+Patch+Policy @work @computer +AMA +Infor
 Come up with a topic to present at PH meeting in near future. +Personal
 Burn a copy of the most recent Bodhi Linux @computer @home +Personal
 Burn a copy of the most recent Crunchbang Linux @computer @home +Personal
@@ -16,3 +15,9 @@ Register Isaiah & Miles for FU LAX Camps. @computer +Personal +Family
 (B) Read the Pulp docs https://pulp-user-guide.readthedocs.org @computer +Infor +AMA
 Make a list of EAM servers w/ OS >= RHEL5. @computer @work +DC4 +Infor +Saltstack
 Use EAM server list to determine which ones still need to have saltstack installed. @computer @work +DC4 +Infor +Saltstack
+Install saltstack on EAM servers that don't have it. @computer @work +DC4 +Infor +Saltstack
+(B) Clean up style of Linux Hardening Policy. @computer @work +AMA +AMA-284 +Infor
+(A) Install Sumo agent on EAM test servers. @computer @work +DC4 +EAM +Infor
+Inbox zero. @work @computer +Infor +Email
+Call John at Midas re: Maxima. @phone +Personal
+.

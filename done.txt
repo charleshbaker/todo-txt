@@ -67,3 +67,7 @@ x 2014-06-10 Inbox zero. @work @computer +Infor +Email
 x 2014-06-10 Correct error in /usr/local/bin/startall on EAM 11 app servers. @work @computer +EAM +DC4 +Infor
 x 2014-06-10 Complete AMA-284 'Write Linux Hardening Policy' @computer @work +Infor +AMA-35
 x 2014-06-10 Inbox zero. @work @computer +Infor +Email
+x 2014-06-11 Inbox zero. @work @computer +Infor +Email
+x 2014-06-11 Complete AMA-285 'Create list of items to be hardened' @computer @work +Infor +AMA-35
+x 2014-06-11 Inbox zero. @work @computer +Infor +Email
+x 2014-06-11 Inbox zero. @work @computer +Infor +Email
