@@ -71,3 +71,17 @@ x 2014-06-11 Inbox zero. @work @computer +Infor +Email
 x 2014-06-11 Complete AMA-285 'Create list of items to be hardened' @computer @work +Infor +AMA-35
 x 2014-06-11 Inbox zero. @work @computer +Infor +Email
 x 2014-06-11 Inbox zero. @work @computer +Infor +Email
+x 2014-06-12 Install Sumo agent on eamtestl00[1-3] servers. @computer @work +DC4 +EAM +Infor
+x 2014-06-12 Call John at Midas re: Maxima. @phone +Personal
+x 2014-06-13 Compile some financial data for LEB. @computer +Personal +Finance
+x 2014-06-13 Look at xmappl023 as example for xmappl02[4-6] @computer @work +CTASK0020598 +Infor +XM +DC4 +VMware
+x 2014-06-13 Assign DNS entries for xmappl02[4-6] @computer @work +CTASK0020598 +Infor +XM +DC4 +VMware
+x 2014-06-13 Assign IPs for xmappl02[4-6] in Solarwinds @computer @work +CTASK0020598 +Infor +XM +DC4 +VMware
+x 2014-06-13 Provision VM xmappl026 @computer @work +CTASK0020598 +Infor +XM +DC4 +VMware
+x 2014-06-13 Provision VM xmappl025 @computer @work +CTASK0020598 +Infor +XM +DC4 +VMware
+x 2014-06-13 Provision VM xmappl024 @computer @work +CTASK0020598 +Infor +XM +DC4 +VMware
+x 2014-06-13 Sprint standup report on 20140609 @work @computer +Infor +AMA
+x 2014-06-13 Sprint standup on 20140611 @work @phone +Infor +AMA
+x 2014-06-13 Sprint demo meeting on 20140613 @work @phone +Infor +AMA
+x 2014-06-16 Change domain password. @computer @work +Infor
+x 2014-06-16 Sprint standup meeting 20140616 @computer @work +Infor +AMA

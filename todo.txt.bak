@@ -4,7 +4,6 @@ Complete CTASK0020391 @computer @work +Infor +DC4 +VMware
 Update Firefox @home @computer +Infor
 Complete CTASK0020464 @computer @work +Infor +DC4 +VMware
 Complete CTASK0020376 @computer @work +Infor +DC4 +VMware
-Complete CTASK0020371 @computer @work +Infor +DC4 +VMware
 (C) Review patch policy document https://collab.aws.infor.com/wiki/display/AMA/Linux+Patch+Policy @work @computer +AMA +Infor
 Come up with a topic to present at PH meeting in near future. +Personal
 Burn a copy of the most recent Bodhi Linux @computer @home +Personal
@@ -12,12 +11,10 @@ Burn a copy of the most recent Crunchbang Linux @computer @home +Personal
 Look for pictures from Maya Angelou book signing. @home +Personal
 Register Isaiah & Miles for FU LAX Camps. @computer +Personal +Family
 (C) Download RHEL 4.x 32 and 64 bit ISOs @home @computer +DC4 +Infor
-(B) Read the Pulp docs https://pulp-user-guide.readthedocs.org @computer +Infor +AMA
+(C) Read the Pulp docs https://pulp-user-guide.readthedocs.org @computer +Infor +AMA
 Make a list of EAM servers w/ OS >= RHEL5. @computer @work +DC4 +Infor +Saltstack
 Use EAM server list to determine which ones still need to have saltstack installed. @computer @work +DC4 +Infor +Saltstack
 Install saltstack on EAM servers that don't have it. @computer @work +DC4 +Infor +Saltstack
 (B) Clean up style of Linux Hardening Policy. @computer @work +AMA +AMA-284 +Infor
-(A) Install Sumo agent on EAM test servers. @computer @work +DC4 +EAM +Infor
 Inbox zero. @work @computer +Infor +Email
-Call John at Midas re: Maxima. @phone +Personal
-.
+(B) Update CMDB entries for xmappl02[4-6] @computer @work +CTASK0020598 +Infor +XM +DC4 +VMware
